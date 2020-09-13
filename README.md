@@ -7,5 +7,5 @@ My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbr
 <!-- index starts -->
 ## networkx
 
-* [Visualising sequences as a directed graph](https://github.com/tomviner/til/blob/master/networkx/sequence-graph.md) - 2020-08-07
+* [Visualising sequences as a directed graph](https://github.com/tomviner/til/blob/master/networkx/sequence-graph.md) - 2020-09-08
 <!-- index ends -->
