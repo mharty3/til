@@ -1,5 +1,10 @@
 name: Markdown Lint
-on: pull_request
+
+on:
+  push:
+    branches:
+    - master
+
 jobs:
   lint:
     runs-on: ubuntu-latest
