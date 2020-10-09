@@ -50,8 +50,6 @@ jobs:
       run: |-
         cd main
         python build_database.py
-    - name: tmate session to debug
-      uses: mxschmitt/action-tmate@v3
     - name: Soundness check
       run: |-
         cd main
