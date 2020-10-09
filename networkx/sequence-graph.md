@@ -65,7 +65,7 @@ for method_name in method_names:
 
 We can see the built-in NetworkX layout engines all make the result very hard to inspect:
 
-![NetworkX built-in graph layout engines](nx-graphs.jpg)
+![NetworkX built-in graph layout engines](https://raw.githubusercontent.com/tomviner/til/master/networkx/nx-graphs.jpg)
 
 The trick here, as
 [mentioned in the tutorial](https://networkx.github.io/documentation/stable/tutorial.html#drawing-graphs),
@@ -86,4 +86,4 @@ nx.draw(
 )
 ```
 
-![Graphviz layout engine](graphviz-graph.png)
+![Graphviz layout engine](https://raw.githubusercontent.com/tomviner/til/master/networkx/graphviz-graph.png)
