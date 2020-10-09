@@ -51,7 +51,6 @@ jobs:
         cd main
         python build_database.py
     - name: tmate session to debug
-      if: github.event_name == 'workflow_dispatch'
       uses: mxschmitt/action-tmate@v3
     - name: Soundness check
       run: |-
