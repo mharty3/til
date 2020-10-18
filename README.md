@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw/til) and [tomviner/til](https://github.com/timviner/til), which I learned about [on Twitter](https://twitter.com/vboykis/status/1312024421964578822?s=20).
 
-<!-- count starts -->3<!-- count ends --> TILs so far.
+<!-- count starts -->6<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## geopandas
@@ -16,4 +16,16 @@ My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw
 ## SQL
 
 * [Get the value counts of a column in SQL](https://github.com/mharty3/til/blob/master/SQL/value-counts-of-a-column.md) - 2020-10-18
+
+## curl
+
+* [Write the output of curl to a file](https://github.com/mharty3/til/blob/master/curl/curl-write-to-file.md) - 2020-10-18
+
+## python
+
+* [Create and activate a virtual environment in Python](https://github.com/mharty3/til/blob/master/python/create-and-activate-venv.md) - 2020-10-18
+
+## vs code
+
+* [Set vertical rulers for git commit messages in vs code](https://github.com/mharty3/til/blob/master/vs code/vertical-rulers-for-git-commit-messages.md) - 2020-10-18
 <!-- index ends -->
