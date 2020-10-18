@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw/til) and [tomviner/til](https://github.com/timviner/til), which I learned about [on Twitter](https://twitter.com/vboykis/status/1312024421964578822?s=20).
 
-<!-- count starts -->2<!-- count ends --> TILs so far.
+<!-- count starts -->3<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## geopandas
@@ -12,4 +12,8 @@ My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw
 ## git
 
 * [Set git's default text editor to vs code](https://github.com/mharty3/til/blob/master/git/set-default-editor.md) - 2020-10-18
+
+## SQL
+
+* [Get the value counts of a column in SQL](https://github.com/mharty3/til/blob/master/SQL/value-counts-of-a-column.md) - 2020-10-18
 <!-- index ends -->
