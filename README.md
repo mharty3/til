@@ -7,9 +7,9 @@ My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw
 <!-- index starts -->
 ## geopandas
 
-* [Convert a closed linestring to a polygon](https://github.com/tomviner/til/blob/master/geopandas/close-linestring-polygon.md) - 2020-10-15
+* [Convert a closed linestring to a polygon](https://github.com/mharty3/til/blob/master/geopandas/close-linestring-polygon.md) - 2020-10-15
 
 ## git
 
-* [Set git's default text editor to vs code](https://github.com/tomviner/til/blob/master/git/set-default-editor.md) - 2020-10-18
+* [Set git's default text editor to vs code](https://github.com/mharty3/til/blob/master/git/set-default-editor.md) - 2020-10-18
 <!-- index ends -->
