@@ -25,7 +25,7 @@ My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw
 
 * [Create and activate a virtual environment in Python](https://github.com/mharty3/til/blob/master/python/create-and-activate-venv.md) - 2020-10-18
 
-## vs code
+## vs_code
 
-* [Set vertical rulers for git commit messages in vs code](https://github.com/mharty3/til/blob/master/vs code/vertical-rulers-for-git-commit-messages.md) - 2020-10-18
+* [Set vertical rulers for git commit messages in vs code](https://github.com/mharty3/til/blob/master/vs_code/vertical-rulers-for-git-commit-messages.md) - 2020-10-18
 <!-- index ends -->
