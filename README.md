@@ -2,12 +2,13 @@
 
 My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw/til) and [tomviner/til](https://github.com/timviner/til), which I learned about [on Twitter](https://twitter.com/vboykis/status/1312024421964578822?s=20).
 
-<!-- count starts -->6<!-- count ends --> TILs so far.
+<!-- count starts -->9<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## geopandas
 
 * [Convert a closed linestring to a polygon](https://github.com/mharty3/til/blob/master/geopandas/close-linestring-polygon.md) - 2020-10-15
+* [Group Well Survey Points into Lines](https://github.com/mharty3/til/blob/master/geopandas/group-points-to-lines.md) - 2020-10-20
 
 ## git
 
@@ -28,4 +29,12 @@ My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw
 ## vs_code
 
 * [Set vertical rulers for git commit messages in vs code](https://github.com/mharty3/til/blob/master/vs_code/vertical-rulers-for-git-commit-messages.md) - 2020-10-18
+
+## docker
+
+* [Attach shell to running container](https://github.com/mharty3/til/blob/master/docker/attach-shell-to-running-container.md) - 2020-10-19
+
+## pip
+
+* [How to avoid SSLError [SSL: CERTIFICATE_VERIFY_FAILED]](https://github.com/mharty3/til/blob/master/pip/SSL-verify.md) - 2020-10-20
 <!-- index ends -->
