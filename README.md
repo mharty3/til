@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw/til) and [tomviner/til](https://github.com/timviner/til), which I learned about [on Twitter](https://twitter.com/vboykis/status/1312024421964578822?s=20).
 
-<!-- count starts -->9<!-- count ends --> TILs so far.
+<!-- count starts -->11<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## geopandas
@@ -29,6 +29,7 @@ My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw
 ## vs_code
 
 * [Set vertical rulers for git commit messages in vs code](https://github.com/mharty3/til/blob/master/vs_code/vertical-rulers-for-git-commit-messages.md) - 2020-10-18
+* [Set a powerline enabled font in the terminal](https://github.com/mharty3/til/blob/master/vs_code/powerline-font-terminal.md) - 2020-10-26
 
 ## docker
 
@@ -37,4 +38,8 @@ My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw
 ## pip
 
 * [How to avoid SSLError [SSL: CERTIFICATE_VERIFY_FAILED]](https://github.com/mharty3/til/blob/master/pip/SSL-verify.md) - 2020-10-20
+
+## GIS
+
+* [Raster affine transforms in Python](https://github.com/mharty3/til/blob/master/GIS/raster-affine-transforms.md) - 2020-10-26
 <!-- index ends -->
