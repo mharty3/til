@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw/til) and [tomviner/til](https://github.com/timviner/til), which I learned about [on Twitter](https://twitter.com/vboykis/status/1312024421964578822?s=20).
 
-<!-- count starts -->11<!-- count ends --> TILs so far.
+<!-- count starts -->12<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## geopandas
@@ -17,6 +17,7 @@ My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw
 ## SQL
 
 * [Get the value counts of a column in SQL](https://github.com/mharty3/til/blob/master/SQL/value-counts-of-a-column.md) - 2020-10-18
+* [Query for Table and Column Names in a Database](https://github.com/mharty3/til/blob/master/SQL/query-tables-and-columns.md) - 2020-11-02
 
 ## curl
 
