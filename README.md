@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw/til) and [tomviner/til](https://github.com/timviner/til), which I learned about [on Twitter](https://twitter.com/vboykis/status/1312024421964578822?s=20).
 
-<!-- count starts -->12<!-- count ends --> TILs so far.
+<!-- count starts -->14<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## geopandas
@@ -26,6 +26,7 @@ My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw
 ## python
 
 * [Create and activate a virtual environment in Python](https://github.com/mharty3/til/blob/master/python/create-and-activate-venv.md) - 2020-10-18
+* [Using command line arguments when running a python script](https://github.com/mharty3/til/blob/master/python/python-comand-line-arguments.md) - 2020-11-17
 
 ## vs_code
 
@@ -35,6 +36,7 @@ My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw
 ## docker
 
 * [Attach shell to running container](https://github.com/mharty3/til/blob/master/docker/attach-shell-to-running-container.md) - 2020-10-19
+* [Creating a bind mount into a docker container](https://github.com/mharty3/til/blob/master/docker/bind-mounts.md) - 2020-11-17
 
 ## pip
 
