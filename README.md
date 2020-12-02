@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw/til) and [tomviner/til](https://github.com/timviner/til), which I learned about [on Twitter](https://twitter.com/vboykis/status/1312024421964578822?s=20).
 
-<!-- count starts -->14<!-- count ends --> TILs so far.
+<!-- count starts -->17<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## geopandas
@@ -13,6 +13,7 @@ My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw
 ## git
 
 * [Set git's default text editor to vs code](https://github.com/mharty3/til/blob/master/git/set-default-editor.md) - 2020-10-18
+* [Stop tracking a file in version control](https://github.com/mharty3/til/blob/master/git/remove-file-from-tracking.md) - 2020-12-01
 
 ## SQL
 
@@ -27,6 +28,8 @@ My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw
 
 * [Create and activate a virtual environment in Python](https://github.com/mharty3/til/blob/master/python/create-and-activate-venv.md) - 2020-10-18
 * [Using command line arguments when running a python script](https://github.com/mharty3/til/blob/master/python/python-comand-line-arguments.md) - 2020-11-17
+* [Avoid nested for loops with itertools.product()](https://github.com/mharty3/til/blob/master/python/itertools-product.md) - 2020-12-01
+* [Use black code formatting in Jupyter](https://github.com/mharty3/til/blob/master/python/black-code-formatting-in-jupyter.md) - 2020-12-01
 
 ## vs_code
 
