@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw/til) and [tomviner/til](https://github.com/timviner/til), which I learned about [on Twitter](https://twitter.com/vboykis/status/1312024421964578822?s=20).
 
-<!-- count starts -->17<!-- count ends --> TILs so far.
+<!-- count starts -->18<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## geopandas
@@ -30,6 +30,7 @@ My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw
 * [Using command line arguments when running a python script](https://github.com/mharty3/til/blob/master/python/python-comand-line-arguments.md) - 2020-11-17
 * [Avoid nested for loops with itertools.product()](https://github.com/mharty3/til/blob/master/python/itertools-product.md) - 2020-12-01
 * [Use black code formatting in Jupyter](https://github.com/mharty3/til/blob/master/python/black-code-formatting-in-jupyter.md) - 2020-12-01
+* [Replace multiple characters in a string using `string.translate()`](https://github.com/mharty3/til/blob/master/python/string-translate.md) - 2020-12-06
 
 ## vs_code
 
