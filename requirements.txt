@@ -8,3 +8,4 @@ datasette-template-sql>=1.0
 datasette-graphql
 datasette-media
 httpx
+pandas
