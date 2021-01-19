@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw/til) and [tomviner/til](https://github.com/timviner/til), which I learned about [on Twitter](https://twitter.com/vboykis/status/1312024421964578822?s=20).
 
-<!-- count starts -->19<!-- count ends --> TILs so far.
+<!-- count starts -->23<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## geopandas
@@ -32,11 +32,14 @@ My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw
 * [Use black code formatting in Jupyter](https://github.com/mharty3/til/blob/master/python/black-code-formatting-in-jupyter.md) - 2020-12-01
 * [Replace multiple characters in a string using `string.translate()`](https://github.com/mharty3/til/blob/master/python/string-translate.md) - 2020-12-06
 * [Using try-except to allow for optional imports in a module](https://github.com/mharty3/til/blob/master/python/optional-imports.md) - 2021-01-09
+* [Using type hints in python](https://github.com/mharty3/til/blob/master/python/type-hinting.md) - 2021-01-15
+* [Accessing the parts of a file path with Pathlib](https://github.com/mharty3/til/blob/master/python/path-parts-in-pathlib.md) - 2021-01-15
 
 ## vs_code
 
 * [Set vertical rulers for git commit messages in vs code](https://github.com/mharty3/til/blob/master/vs_code/vertical-rulers-for-git-commit-messages.md) - 2020-10-18
 * [Set a powerline enabled font in the terminal](https://github.com/mharty3/til/blob/master/vs_code/powerline-font-terminal.md) - 2020-10-26
+* [Enabling the type checking feature in vscode](https://github.com/mharty3/til/blob/master/vs_code/pylance-type-checking.md) - 2021-01-15
 
 ## docker
 
@@ -50,4 +53,8 @@ My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw
 ## GIS
 
 * [Raster affine transforms in Python](https://github.com/mharty3/til/blob/master/GIS/raster-affine-transforms.md) - 2020-10-26
+
+## pandas
+
+* [Binning data with cut and qcut](https://github.com/mharty3/til/blob/master/pandas/binning-data.md) - 2021-01-15
 <!-- index ends -->
