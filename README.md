@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw/til) and [tomviner/til](https://github.com/timviner/til), which I learned about [on Twitter](https://twitter.com/vboykis/status/1312024421964578822?s=20).
 
-<!-- count starts -->23<!-- count ends --> TILs so far.
+<!-- count starts -->24<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## geopandas
@@ -57,4 +57,8 @@ My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw
 ## pandas
 
 * [Binning data with cut and qcut](https://github.com/mharty3/til/blob/master/pandas/binning-data.md) - 2021-01-15
+
+## dummy_category
+
+* [a test file to see how github actions will handle it](https://github.com/mharty3/til/blob/master/dummy_category/dummy.md) - 2021-02-03
 <!-- index ends -->
