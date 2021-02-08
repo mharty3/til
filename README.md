@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw/til) and [tomviner/til](https://github.com/timviner/til), which I learned about [on Twitter](https://twitter.com/vboykis/status/1312024421964578822?s=20).
 
-<!-- count starts -->24<!-- count ends --> TILs so far.
+<!-- count starts -->23<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## geopandas
@@ -28,8 +28,8 @@ My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw
 
 * [Create and activate a virtual environment in Python](https://github.com/mharty3/til/blob/master/python/create-and-activate-venv.md) - 2020-10-18
 * [Using command line arguments when running a python script](https://github.com/mharty3/til/blob/master/python/python-comand-line-arguments.md) - 2020-11-17
-* [Avoid nested for loops with itertools.product()](https://github.com/mharty3/til/blob/master/python/itertools-product.md) - 2020-12-01
 * [Use black code formatting in Jupyter](https://github.com/mharty3/til/blob/master/python/black-code-formatting-in-jupyter.md) - 2020-12-01
+* [Avoid nested for loops with itertools.product()](https://github.com/mharty3/til/blob/master/python/itertools-product.md) - 2020-12-01
 * [Replace multiple characters in a string using `string.translate()`](https://github.com/mharty3/til/blob/master/python/string-translate.md) - 2020-12-06
 * [Using try-except to allow for optional imports in a module](https://github.com/mharty3/til/blob/master/python/optional-imports.md) - 2021-01-09
 * [Using type hints in python](https://github.com/mharty3/til/blob/master/python/type-hinting.md) - 2021-01-15
@@ -57,8 +57,4 @@ My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw
 ## pandas
 
 * [Binning data with cut and qcut](https://github.com/mharty3/til/blob/master/pandas/binning-data.md) - 2021-01-15
-
-## dummy_category
-
-* [a test file to see how github actions will handle it](https://github.com/mharty3/til/blob/master/dummy_category/dummy.md) - 2021-02-03
 <!-- index ends -->
