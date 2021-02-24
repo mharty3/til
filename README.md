@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw/til) and [tomviner/til](https://github.com/timviner/til), which I learned about [on Twitter](https://twitter.com/vboykis/status/1312024421964578822?s=20).
 
-<!-- count starts -->24<!-- count ends --> TILs so far.
+<!-- count starts -->25<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## geopandas
@@ -61,4 +61,5 @@ My Today I Learned snippets. Adapted from [simonw/til](https://github.com/simonw
 ## github_actions
 
 * [Github actions basics and syntax](https://github.com/mharty3/til/blob/master/github_actions/basic_gh_action_syntax.md) - 2021-02-07
+* [Allow workflows to interact with other repos using Personal Access Tokens](https://github.com/mharty3/til/blob/master/github_actions/personal-access-token.md) - 2021-02-23
 <!-- index ends -->
